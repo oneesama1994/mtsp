@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"thumbnails":{"edges":[{"node":{"publicURL":"/mtsp/static/957d745cc5aa1ef715872aa25f7ff248/thumbnail-650-923.pbew","relativePath":"Tachibana-san-chi no Dansei Jijou Matome Ban/thumbnail-650-923.pbew","name":"thumbnail-650-923"}},{"node":{"publicURL":"/mtsp/static/3934fcad235097cf3e1418e9b93e1678/thumbnail-650-916.pbew","relativePath":"Tanemori-ke no Katei Jijou 1/thumbnail-650-916.pbew","name":"thumbnail-650-916"}},{"node":{"publicURL":"/mtsp/static/fac3b2148b4f14df5e819f85054cca76/thumbnail-650-922.pbew","relativePath":"Tanemori-ke no Katei Jijou 2/thumbnail-650-922.pbew","name":"thumbnail-650-922"}},{"node":{"publicURL":"/mtsp/static/64e8c679df5923496d25dadab8d4de1a/thumbnail-650-911.pbew","relativePath":"Tanemori-ke no Katei Jijou 3/thumbnail-650-911.pbew","name":"thumbnail-650-911"}}]}},"pageContext":{}},
+    "staticQueryHashes": []}
